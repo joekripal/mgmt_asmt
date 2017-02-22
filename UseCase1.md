@@ -1,23 +1,23 @@
-* **Title**
+* **Title**  
  + Determine and Upload License and Vulnerability Information to Risk Database
 
 * **Primary Actor**
- +f
+ + f
 
 * **Goal in Context**
- +f
+ + f
  
 * **Stakeholders**
- +f
+ + f
  
 * **Preconditions**
- +f
+ + f
  
 * **Main Success Scenario**
- +f
+ + 
  
 * **Failed End Conditions**
- +f
+ + f
  
 * **Trigger**
- +f
+ + f
