@@ -1,4 +1,4 @@
-### Executive Summary  
+## Executive Summary  
 
 This system is designed to help developers and managers to determine the licenses and vulnerabilities of Open Source Software (OSS) to be used in a business environment. This company taking in OSS would be an asset in that it could drastically cut down cost for the company. It also allows the company to have more freedom in that they are not held down by a contract with a specific vendor and are able to edit the software easier. However, the intake of OSS does have its drawbacks. The company would need to be aware of licenses and vulnerabilities in the software they are taking in as to not open themselves to security breaches.
 
