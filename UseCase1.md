@@ -5,12 +5,12 @@
  + Developer
 
 * **Goal in Context**
- + The developer is able to determine license and vulnerability information, then send the information to the License & Vulnerability Database.
+ + The developer is able to determine license and vulnerability information and have information sent to the license & vulnerability database.
  
 * **Stakeholders**
  + Developer: To receive license and vulnerability information and send the information to the License & Vulnerability Database.
- + License Holder: Ensure licenses are being held and credit is given where due.
- 
+ + Manager: To be able to query license & vulnerability database at a later time.
+
 * **Preconditions**
  + Relevant software sent and uploaded to License Scanner and NIST Vulnerability DB.
  
@@ -21,4 +21,4 @@
  + Developer does not receive accurate license & vulnerability information and it is incorrectly sent to the License & Vulnerability Database.
  
 * **Trigger**
- + Developer finds new software to be used in the business environment.
+ + Developer uploads new software to be used in the business environment.
