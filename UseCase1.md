@@ -9,7 +9,6 @@
  
 * **Stakeholders**
  + Developer: To receive license and vulnerability information and send the information to the Risk Database.
- + Manager: To receive license and vulnerability results to implement policies
  + License Holder: Ensure licenses are being held and credit is given where due.
  
 * **Preconditions**
