@@ -1,17 +1,18 @@
 * **Title**  
- + f
+ + Receive License and Vulnerability Information
 
 * **Primary Actor**
- + f
+ + Manager
 
 * **Goal in Context**
- + f
+ + Receive accurate license & vulnerability information from license & vulnerability database
  
 * **Stakeholders**
- + f
+ + Manager: To receive clear and relevant information
+ + Company: To ensure proper licenses are followed and policies are in place for vulnerabilities
  
 * **Preconditions**
- + f
+ + Developer has already sent license & vulnerability results to the license & vulnerability database.
  
 * **Main Success Scenario**
  + f
