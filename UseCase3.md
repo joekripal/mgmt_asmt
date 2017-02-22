@@ -1,23 +1,24 @@
 * **Title**  
- + f
+ + Change and Update Policy Information
 
 * **Primary Actor**
- + f
+ + Manager
 
 * **Goal in Context**
- + f
+ + Allow the manager to change, update, or create new policies regarding certain licenses pertaining to software.
  
 * **Stakeholders**
- + f
+ + Manager: To change, update, or create policies in regards to licenses.
+ + Company: Ensure no potential lawsuits can take place due to copyright infringement.
  
 * **Preconditions**
- + f
+ + Proper license restriction information is provided to the manager.
  
 * **Main Success Scenario**
- + f
+ + Manager is able to successfully send changed, updated, or new policy information to the policy database.
  
 * **Failed End Conditions**
- + f
+ + Manager is unable to send changed, updated, or new policy information to policy database, so policies stay the same.
  
 * **Trigger**
- + f
+ + Developer desires using a software containing a license.
