@@ -15,10 +15,10 @@
  + Developer has already sent license & vulnerability results to the license & vulnerability database.
  
 * **Main Success Scenario**
- + f
+ + Manager receives accurate license & vulnerability information for the requested software
  
 * **Failed End Conditions**
- + f
+ + Manager receives inaccurate license & vulnerability information for the reuqested software
  
 * **Trigger**
- + f
+ + Manager sends request to license & vulnerability database for license & vulnerability information
