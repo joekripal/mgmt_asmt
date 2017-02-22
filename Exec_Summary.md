@@ -1,3 +1,3 @@
 ### Executive Summary  
 
-The motivation here is this
+This system is designed to help developers and managers to determine the licenses and vulnerabilities of software to be used in a business environment. The implementation of this system will have various implications on the organizational structure as well as authority and control in the business. Managers will be the ones that will set and determine policy changes and the developer will have no affect on this. Developers will be responsible to send potential software packages to the license and vulnerability database for review. The main open source communities involved in this system would be those involved in the NIST Vulnerability Database as well as those that created the license scanner. These communities would be relied upon by the business to effectively flag software for the developers.
