@@ -12,7 +12,7 @@
 * **Retrieve Policies** - Sends policy request to Policy DB and sends policy results to Manager.
 * **Retrieve Licenses & Vulnerabilities** - Takes request from Manager or Developer and sends it to License & Vulnerability Database. Also sends License & Vulnerability Results back to Manager or Developer.
 * **Scan Software for Vulnerabilities & Licenses** - Takes software from Developer and sends it to the License Scanner. Sends Software Name to NIST Vulnerability DB. Recieves License Results from License Scanner and Vulnerability Results from NIST Vulnerability DB. Sends License Results and Vulnerability Results back to Developer as well as to License & Vulnerability Database.
-* **Set Policies** - Sends a policy change from the Manager to the Policy DB.
+* **Set Policies** - Sends a new policy or a policy change from the Manager to the Policy DB.
 
 ## Data Flows
 * **License & Vulnerability Request** - Sent by either Developer or Manager to find Licenses and Vulnerabilities for a given piece of software.
