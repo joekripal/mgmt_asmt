@@ -9,7 +9,6 @@
  
 * **Stakeholders**
  + Manager: To change, update, or create policies in regards to licenses.
- + Company: Ensure no potential lawsuits can take place due to copyright infringement.
  
 * **Preconditions**
  + Proper license restriction information is provided to the manager.
